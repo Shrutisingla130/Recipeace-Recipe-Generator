@@ -2,7 +2,7 @@ body {
     background-color: rgb(199, 239, 200);
 }
 .top{
-    background-image: url(./Images/food.avif);
+    background-image: url(/Images/food.avif);
     height: 600px;
     background-size: cover;
 }
